@@ -1,9 +1,9 @@
 {
-  "name": "My App",
-  "short_name": "My App",
-  "description": "My App",
+  "name": "fw60",
+  "short_name": "fw60",
+  "description": "fw60",
   "lang": "en-US",
-  "start_url": "/qwe/index.html",
+  "start_url": "/fw60/index.html",
   "display": "standalone",
   "background_color": "#EE350F",
   "theme_color": "#EE350F",
