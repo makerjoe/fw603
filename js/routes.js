@@ -5,7 +5,7 @@ var routes = [
     url: './index.html',
   },
   {
-    path: '/aboutx/',
+    path: '/about/',
     url: './pages/aboutx.html',
   },
   {
