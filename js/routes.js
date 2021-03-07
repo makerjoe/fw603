@@ -3,6 +3,10 @@ var routes = [
   {
     path: '/',
     url: './pages/home.html',
+  },  
+  {
+    path: '/home/',
+    url: './pages/home.html',
   },
   {
     path: '/about/',
