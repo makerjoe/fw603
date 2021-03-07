@@ -16,6 +16,9 @@ var app = new Framework7({
     path: '/fw603/service-worker.js',
   },
 });
+// redirect directly to home page
+app.views.main.router.navigate('/home/')
+
 // Login Screen Demo
 $('#my-login-screen .login-button').on('click', function () {
   var username = $('#my-login-screen [name="username"]').val();
